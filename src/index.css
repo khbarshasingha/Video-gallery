@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.content {
+  display: flex;
+  flex-wrap: wrap;
+}
+.hbg {
+  background-image: url(http://mrmrs.github.io/photos/u/011.jpg);
+}
+.fc {
+  fill: currentcolor;
+}
+.fbg {
+  background-image: url(http://i.giphy.com/5lF3pQpdquCBy.gif);
+}
